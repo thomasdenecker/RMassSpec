@@ -1,0 +1,15 @@
+Package: RMassSpec
+Type: Package
+Title: Package for manipulating Mass spectrometry data
+Version: 0.1.0
+Author: Thomas DENECKER
+Maintainer: Thomas DENECKER <thomas.denecker@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: BSD 3-clause License
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
